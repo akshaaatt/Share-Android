@@ -1,4 +1,13 @@
-# Share
+<h1 align="center">Share</h1>
+
+<p align="center">
+	    <a href="https://jitpack.io/#akshaaatt/Share-Android">
+    <img src="https://jitpack.io/v/akshaaatt/Share-Android.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub issues">
+	</a>
+	   
+</p>
+       
+---
 
 A `Media` & `Text` Sharing library for Android backed by Kotlin Coroutines. `Share` is: 
 
@@ -30,9 +39,7 @@ allprojects {
 And add a dependency code to your **APP**'s `build.gradle` file.
 ```gradle
 dependencies {
-
-	  implementation 'com.github.akshaaatt:Share:1.0.0'
-
+   implementation 'com.github.akshaaatt:Share:1.0.0'
 }
 ```
 
